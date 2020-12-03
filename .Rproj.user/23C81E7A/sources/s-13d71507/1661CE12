@@ -1,0 +1,25 @@
+{
+    "id": "1661CE12",
+    "path": "/cloud/project/main_script.R",
+    "project_path": "main_script.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1606991140797.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "101,22",
+        "scrollLine": "79"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607005592,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607005592637,
+    "read_only": false,
+    "read_only_alternatives": []
+}
