@@ -105,4 +105,4 @@ for(i in 1:388){
   in_csv$Expected[i] <- as.character(std_input(c))
 }
 
-write.csv(in_csv, 'submission.csv', row.names=FALSE, fileEncoding="UTF-8")
+
