@@ -14,7 +14,7 @@ defaultday = 27
 defaulthour = 2
 defaultminute = 30
 
-line = ""
+line = "" 
 
 def inputinres(year, month, day, hour, minute):
   updatetime(year, month, day, hour, minute)
