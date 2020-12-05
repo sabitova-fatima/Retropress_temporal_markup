@@ -4,9 +4,9 @@
 
 ***Участники команды:***
 
-*hleilani (Кашафутдинов Нияз, <https://github.com/re-mouse/>)
-*mlorette (Лукин Тимофей)
-*hdamion (Сабитова Фатима, <https://github.com/sabitova-fatima/>)
+* hleilani (Кашафутдинов Нияз, <https://github.com/re-mouse/>)
+* mlorette (Лукин Тимофей)
+* hdamion (Сабитова Фатима, <https://github.com/sabitova-fatima/>)
 
 ***
 
