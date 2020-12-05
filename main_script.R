@@ -1,4 +1,3 @@
-if (FALSE){
 ##### includes #####
 
 library(reticulate)
@@ -18,7 +17,6 @@ now <- "2020-11-27T2:30"
 in_csv <- data.frame(read.csv("submission_input.csv", encoding="UTF-8"))
 in_csv$Expected <- "2020-11-27T2:30"
 
-}
 ##### function to clean the string #####
 
 # here we remove all commas
