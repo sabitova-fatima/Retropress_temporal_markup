@@ -1,4 +1,5 @@
-# Retropress_temporal_markup
+# Retropress_temporal_markup hackathon
+
 ## Хакатон от Школы 21 и библиотеки им. Ленина по анализу временных промежутков
 3 место
 
